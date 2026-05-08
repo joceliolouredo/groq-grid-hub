@@ -4,3 +4,4 @@ requests
 ccxt
 groq
 python-dotenv
+pandas
